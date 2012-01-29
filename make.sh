@@ -1,4 +1,5 @@
 #!/usr/bin/sh
+
 gcc -c servermy_global.c
 
 gcc -c server.c
